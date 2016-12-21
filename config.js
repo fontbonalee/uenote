@@ -3,8 +3,8 @@
 
 dribbbox.config = {
 
-  dribbble_username : "FONTBONA",
+  dribbble_username : "FontbonaLee",
   short_description : "User interface and icon designer.",
-  email_address     : "545593122@qq.com.com"
+  email_address     : "545593122@qq.com"
 
 }
