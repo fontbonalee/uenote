@@ -35,8 +35,9 @@
 								        $('body').delay(800).fadeIn();
 								    };
 
-								    //set up your dribbble username here and the number of shots to display
-								    $.jribbble.getShotsByPlayerId('paolotripodi', callback, {
+								    //set up your dribbble user
+									here and the number of shots to display
+								    $.jribbble.getShotsByPlayerId('FontbonaLee', callback, {
 								        page: 1,
 								        per_page: 6
 								    });
